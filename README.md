@@ -11,6 +11,10 @@ Food Box is a web application that helps you decide what to eat by randomly sele
 - Discover a variety of famous foods from the Philippines
 - Fun and interactive way to decide your next meal
 
+## Visit the Website
+
+https://arlbdev.github.io/food-box/
+
 ## Technologies Used
 
 - HTML
